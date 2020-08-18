@@ -9,4 +9,4 @@ Build a very simple React app that demonstrates the above concepts.
 [Live site](https://tijanif.github.io/react-job/)
 
 **License**
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT Licensse.
